@@ -1,0 +1,17 @@
+{
+  "name": "workmate-api",
+  "version": "0.1.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BenCtrl",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}
